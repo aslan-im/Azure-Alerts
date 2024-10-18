@@ -36,7 +36,7 @@ This Function App requires the `PSTeams` module to send messages to Microsoft Te
 
 ```powershell
 @{
-    'PSTeams' = '1.0.3'
+    'PSTeams' = '2.0.4'
 }
 ```
 ## Usage
